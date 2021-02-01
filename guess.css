@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+
+.colorbutton{
+    height: unset;
+    min-height: 100px;
+    width: unset;
+    min-width: 100px;
+    border-style: outset;
+    border-radius: 100px;
+    position: relative;
+    background-color: red;  
+      
+}
+#buttonwrapper{
+    position: relative;
+    top: 50px;
+    margin-left: 450px;
+}
+
+#reset{
+    height: 20px;
+    width: 60px;
+    border-radius: 5px;
+    position: relative;
+    top: 150px;
+    margin-left: 48%;
+    background-color: lemonchiffon;
+    font-weight: bold;
+}
+
+#answer{
+    position: relative;
+    text-align: center;
+    top: 100px;
+
+}
+#colorvalue{
+    position: relative;
+    text-align: center;
+}
